@@ -1,4 +1,4 @@
-# Movie Network (Still in devolopment)
+# Movie Network (Still in development)
 ### Movie Network is an Android App trying to introduce you to a new way of sharing movies with your family and friends.
 #### This is a small personal project, still in development, where I'm exploring the world of Android Development in flutter. 
 #### The login system and app database are handled by Firebase and all the movie information is available with <a href="http://www.omdbapi.com/">OMDB API</a>. 
