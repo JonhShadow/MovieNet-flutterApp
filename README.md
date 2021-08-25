@@ -1,16 +1,23 @@
-# movie_net
+# Movie Network (Still in devolopment)
+### Movie Network is an Android App trying to introduce you to a new way of sharing movies with your family and friends.
+#### This is a small personal project, still in development, where I'm exploring the world of Android Development in flutter. 
+#### The login system and app database are handled by Firebase and all the movie information is available with <a href="http://www.omdbapi.com/">OMDB API</a>. 
 
-A new Flutter project.
+### Todo List
+- [x] Login Page 
+- [x] Sign Up Page 
+- [x] Group List Page
+- [x] Add group Page
+- [x] Group Page
+- [ ] Firebase Connection
+- [ ] Database Design
+- [ ] Profile Page
+- [ ] Add Movie Page
+- [ ] Movie Page
+####  and so on....
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/34392955/130820906-b748e588-aab9-4e40-aa32-72076e384601.png" width="32%">
+  <img src="https://user-images.githubusercontent.com/34392955/130822237-3905bfc1-049e-47b7-8997-0b9c3dca8dd1.png" width="32%">
+  <img src="https://user-images.githubusercontent.com/34392955/130822387-5129aecf-7948-4e68-b539-8a580b23ed42.png" width="32%">
+</p>
